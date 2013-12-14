@@ -8,5 +8,6 @@ namespace Git_test
 {
     class Class1
     {
+        //
     }
 }
